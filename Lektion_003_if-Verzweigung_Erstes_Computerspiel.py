@@ -21,6 +21,6 @@ while(True):  # <---------------------------------------------------------------
         print("\n\n\n\tRichitg geraten. Die " + str(randomNumberToGuess) + " wurde gesucht.")         # |
         break                                                                                         # |
     else:                                                                                             # |
-        print("\n\tversuche es nochmal.....") #--------------------------------------------------------------
+        print("\n\tversuche es nochmal.....") #----------------------------------------------------------
 
 print("\n\tIch wünsche Dir einen schönen Tag. Bye Bye\n\n")
