@@ -39,5 +39,3 @@ myDog.rollOver()
 myDog.sit()
 yourDog.rollOver()
 yourDog.sit()
-# Übung: ergänze die Klasse Hund um zwei Attribute und um zwei Methoden.
-# Eine Klasse ausdenken mit 5 Attributen (Eigenschaften) und zwei Methoden.
