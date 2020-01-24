@@ -16,7 +16,7 @@ class GeldAusgabe():
         print("Datum: " + str(self.tag) + "." + str(self.monat) + "." + str(self.jahr))
         print("Betrag: ", end="")   # lasse das newline am Ende der Zeile weg, da der Betrag z.B. 7,50
                                     # hinter "Betrag: " stehen soll
-        print("%.2f" % self.betrag, "€")  # zeige zwei Deziamlstellen, damit 7.50 angezeigt wird anstatt 7.5
+        print("%.2f" % self.betrag, "€")  # zeige zwei Dezimalstellen, damit 7.50 angezeigt wird anstatt 7.5
         print("----------------------------------------------------------")
 
     def getBetrag(self):
