@@ -24,9 +24,6 @@ Tom:18
 - Werte aus dem neuen dict schön ausgeben
 
 
-mail@jonas-witze.de
-gavriil.diamantidis@gmail.com
-jan.bauerdiek@outlook.de
 
 '''
 
